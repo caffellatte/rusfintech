@@ -4,6 +4,7 @@
   "devDependencies": {
     "coffee-script": "latest"
   },
+  "main": "index.js",
   "description": "RusFinTech is a Bitcoin operation platform",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
