@@ -1,0 +1,26 @@
+{
+  "name": "rusfintech",
+  "version": "0.0.1",
+  "devDependencies": {
+    "coffee-script": "latest"
+  },
+  "description": "RusFinTech is a Bitcoin operation platform",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caffellatte/rusfintech.git"
+  },
+  "keywords": [
+    "fin",
+    "tech",
+    "bot"
+  ],
+  "author": "m.g.lutsenko@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caffellatte/rusfintech/issues"
+  },
+  "homepage": "https://github.com/caffellatte/rusfintech#readme"
+}
